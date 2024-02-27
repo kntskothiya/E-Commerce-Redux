@@ -1,0 +1,6 @@
+export const PRODUCTS = "PRODUCTS";
+export const PRODUCTS_SUCCESS = "PRODUCTS_SUCCESS";
+export const PRODUCTS_FAILED = "PRODUCTS_FAILED";
+export const ADD_TO_CART = "ADD_TO_CART";
+export const REMOVE_ITEM = "REMOVE_ITEM";
+export const UPDATE_QUANTITY = "UPDATE_QUANTITY";
